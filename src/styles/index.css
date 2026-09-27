@@ -164,7 +164,7 @@ a:hover { text-decoration: none; }
 /* ---------- Fixed left social sidebar ---------- */
 .social-sidebar {
   position: fixed;
-  left: 25px;
+  left: 20px;
   bottom: 0;
   z-index: 900;
   display: flex;
